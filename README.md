@@ -1,1 +1,21 @@
 # mail_box_client
+
+This is a simple React JS app that allows users to send emails.
+I used Firebase for authentication, real-time database and hosting.
+It is integrated with a react-jodit editor for composing a new email. 
+Users can see all the emails they have sent and received. 
+Emails can be deleted & can be restored. 
+
+Libraries used 
+
+"Axios": "^1.4.0",
+"bootstrap": "^5.3.1",
+"draft-js": "^0.11.7",
+"html-react-parser": "^4.2.0",
+"jodit-react": "^1.3.39",
+"react-bootstrap": "^2.8.0",
+"react-draft-wysiwyg": "^1.15.0",
+"react-icons": "^4.10.1",
+"react-redux": "^8.1.1",
+"react-router-dom": "^5.3.4",
+"react-toastify": "^9.1.3",
